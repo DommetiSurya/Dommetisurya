@@ -1,18 +1,26 @@
-# 💫 About Me:
-# 👋 Hi, I'm **Dommeti Venkata Shyam Surya**<br><br>🎓 Final-Year Electronics and Communication Engineering (ECE) Student | Embedded Systems Enthusiast | Hardware Innovator | Open-Source Learner<br><br>* 🔭 I am passionate about designing intelligent embedded systems that integrate hardware, firmware, IoT, and AI to solve real-world engineering problems.<br>* 💻 I have successfully designed and developed **50+ hardware and software projects**, ranging from IoT applications and robotics to Edge AI, smart automation, and embedded control systems.<br>* ⚡ My technical expertise includes **Embedded C, C, Python, STM32, ESP32, Arduino, Raspberry Pi, IoT, Electronics Prototyping, Sensor Interfacing, PCB Design, and Hardware Debugging**.<br>* 🤖 I enjoy working with **microcontrollers, communication protocols (UART, SPI, I²C, CAN), RTOS concepts, Linux for Embedded Systems, Device Drivers, and AI-powered embedded applications**.<br>* 🚀 My goal is to become a highly skilled **Embedded Software Engineer**, specializing in firmware development, low-level programming, real-time systems, and next-generation embedded technologies.<br>* 🏆 I actively participate in **hackathons, technical competitions, research projects, and innovation challenges**, where I transform ideas into functional prototypes and industry-oriented solutions.<br>* 📚 I continuously expand my knowledge in **Digital Electronics, Analog Electronics, Microprocessors, ARM Cortex-M Architecture, Computer Architecture, Operating Systems, and Modern Embedded Technologies**.<br>* 🌍 I believe in learning by building, sharing knowledge, and contributing to open-source projects that help the engineering community grow together.<br>* 🎯 Beyond coding, I enjoy exploring emerging technologies, optimizing embedded designs, mentoring peers, and creating impactful solutions that bridge the gap between software and hardware.<br>* 📫 I am always open to collaborating on **Embedded Systems, IoT, Robotics, AI, Firmware Development, Open-Source Projects, and Innovative Research**. Let's build technology that creates real-world impact together!<br>
 
+## 👋 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ dommeti-surya Vanity URL name) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dommetishyam22@gmail.com) 
+Hi, I'm **Dommeti Venkata Shyam Surya**, a final-year B.Tech student in **Electronics and Communication Engineering (ECE)**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Dommetisurya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Dommetisurya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dommetisurya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm passionate about embedded systems, hardware innovation, IoT, robotics, and AI-powered engineering solutions.
 
----
-[![](https://komarev.com/ghpvc/?username=Dommetisurya&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🔭 Designed and developed **50+ hardware and software projects**.
+- ⚡ Skills: Embedded C, C, Python, STM32, ESP32, Arduino, Raspberry Pi, IoT, PCB Design, and Sensor Interfacing.
+- 🤖 Interested in embedded firmware, robotics, Edge AI, smart automation, and hardware debugging.
+- 🌱 Currently expanding my knowledge of embedded systems and software development.
+- 🎯 Career goal: Become a **Full Stack Embedded Developer**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Technical Interests
+
+`Embedded Systems` · `Embedded C` · `STM32` · `ESP32` · `Arduino` · `Raspberry Pi` · `IoT` · `Robotics` · `PCB Design` · `Edge AI`
+
+### 📂 Featured Projects
+
+- Obstacle-Avoiding Robot — Arduino, ultrasonic sensor, motor driver.
+- Smart Home Automation — ESP32, relays, IoT.
+- MastiPredict — AI-based predictive modelling for bovine mastitis.
+
+### 🤝 Connect With Me
+
+- GitHub: [@DommetiSurya](https://github.com/DommetiSurya)
